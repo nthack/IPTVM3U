@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 ,凤凰中文
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,北京卫视高清
+http://183.207.249.7/PLTV/3/224/3221225574/index.m3u8
+#EXTINF:-1 ,湖南卫视高清
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=06&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,浙江卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225505/index.m3u8
+#EXTINF:-1 ,深圳卫视高清
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=42&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,江苏卫视
+http://223.110.245.170/PLTV/3/224/3221227255/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://223.110.243.138/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
+#EXTINF:-1 ,吉林卫视高清
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=25&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,天津卫视高清
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=37&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,安徽卫视高清
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=02&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,山东卫视高清
+#http://124.47.33.200/PLTV/88888888/224/3221225591/index.m3u8
+#EXTINF:-1 ,江西卫视高清
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=40&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,河北卫视高清
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=45&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,河南卫视高清
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=19&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,贵州卫视高清
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=41&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,辽宁卫视高清
+http://183.207.249.9/PLTV/3/224/3221225566/index.m3u8
+#EXTINF:-1 ,重庆卫视高清
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=16&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+#EXTINF:-1 ,陕西卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 ,厦门卫视
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+#EXTINF:-1 ,新疆卫视
+http://183.207.249.7/PLTV/3/224/3221225523/index.m3u8
