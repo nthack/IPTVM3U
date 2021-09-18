@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 ,翡翠台 - 线路1（大陆线路）
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+
+#EXTINF:-1 ,翡翠台 - 线路2（大陆线路）
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+
+#EXTINF:-1 ,翡翠台 - 线路3（高清，香港线路）
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+#EXTINF:-1 ,翡翠台2 - J2（高清，香港线路）
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+
+#EXTINF:-1 ,无线新闻台（高清，香港线路）
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+
+#EXTINF:-1 ,无线财经·资讯台（高清，香港线路）
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+
+#EXTINF:-1 ,翡翠明珠台
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+
+#EXTINF:-1 ,翡翠明珠台 - 线路2（高清，香港线路）
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+
+#EXTINF:-1 ,ViuTV
+http://61.238.6.49:8000/bysid/99.m3u8
+
+#EXTINF:-1 ,ViuTV - 线路2（高清，香港线路）
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+
+#EXTINF:-1 ,ViuTVsix
+http://61.238.6.49:8000/bysid/96.m3u8
+
+#EXTINF:-1 ,ViuTVsix - 线路2（香港线路）
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+
+#EXTINF:-1 ,港台电视RTHK31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+
+#EXTINF:-1 ,港台电视RTHK32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+
+#EXTINF:-1 ,凤凰香港 - 蓝光1
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+
+#EXTINF:-1 ,凤凰香港 - 蓝光2
+http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+
+#EXTINF:-1 ,香港C+ - 蓝光1
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+
+#EXTINF:-1 ,星空衛視
+#rtmp://58.200.131.2:1935/livetv/startv
