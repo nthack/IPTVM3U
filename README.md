@@ -109,6 +109,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 ## **Adult成人直播源**
 #NSFW
+#You need to decide whether you can use this branch according to local laws!!!
 
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2021.06.24-brightgreen?style=for-the-badge)
 
