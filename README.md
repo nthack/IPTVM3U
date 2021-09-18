@@ -25,7 +25,6 @@
   - [**国内卫视IPTV直播源**](#国内卫视iptv直播源)
     - [M3U文件](#m3u文件-5)
     - [更新日志](#更新日志-5)
-
   
 ---
 ---
@@ -40,11 +39,13 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 
 ## 分支说明
-### 分支：`master`（main）
-全年龄：All age
+### branch：`master`（main）
+> 全年龄：All age
 
-### 分支：`adult`
-18+ only
+### branch：`adult`
+> 18+ only
+> 
+> You need to decide whether you can use this branch according to local laws!!!
 
 
 
@@ -53,8 +54,9 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 
 ## 声明
-所有直播源均由网上搜刮，如有侵权，请联系删除。
-
+> 所有直播源均由网友于网上搜刮并共享，如有侵权，请联系删除。
+> 
+> All sources are clooected and shared by netizen, if there is any infringement, please contact to delete.
 
 
 ---
@@ -105,7 +107,6 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 
 
-
 ## **Adult成人直播源**
 #NSFW
 
@@ -118,12 +119,7 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 > 无
 
 
-
-
 ---
-
-
-
 
 
 ## **全部合集IPTV直播源**
@@ -216,4 +212,3 @@ IPTV直播源、直播地址分享；M3U直播地址分享。不是随手添加�
 
 ### 更新日志
 > **2021.08.27**：暂时隐藏`山东卫视`线路，该线路不可达
-
